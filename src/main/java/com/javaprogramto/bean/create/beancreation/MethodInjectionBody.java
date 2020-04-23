@@ -40,3 +40,5 @@ public class MethodInjectionBody implements CommandLineRunner {
 	}
 
 }
+
+
